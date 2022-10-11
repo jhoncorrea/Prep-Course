@@ -1,0 +1,4 @@
+El for es un bucle que permite ahorrar en escribir código
+El && es un operador matemático que simboliza la y
+El || es un operador matemático que simboliza la o
+El ! es un operador matemático que simboliza la negación
