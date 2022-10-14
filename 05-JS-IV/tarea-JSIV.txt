@@ -1,0 +1,5 @@
+Objetos: Los objetos son contenedores de propiedades y que éstas a su vez tienen un valor cada una.
+propiedades: Las propiedades son los atributos de un objeto.
+Métodos: Los métodos son funciones que realizan y devuelven algún valor.
+Bucle for: Es un conjunto de instrucciones que dado una condición retorna un valor.
+Notación de puntos vs notación de corchetes: Sirven para acceder al atributo de un objeto
