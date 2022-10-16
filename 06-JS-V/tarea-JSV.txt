@@ -1,0 +1,5 @@
+El Prototype es un mecanismo mediante el cual los objetos en JavaScript heredan 
+características entre sí.
+
+Constructors de clases, es un método que permite crear e inicializar un
+objeto creado a partir de una clase.
